@@ -1,0 +1,3 @@
+TypeScript:
+
+- todas as libs de types são instaladas bastando colocar o @types/ e o -D
