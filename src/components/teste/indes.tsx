@@ -1,8 +1,10 @@
 import React from 'react';
-//@ts-ignore
+
 import whatsAppIcon from '../../assets/images/icons/whatsapp.svg';
 
-function TeacherItem(){
+import './styles.css'
+
+const TeacherItem = () => {
   return (
       <article className="teacher-item">
         <header>

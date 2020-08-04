@@ -1,7 +1,7 @@
 import React from 'react';
 
 import PageHeader from '../../components/PageHeader';
-import TeacherItem from '../../components/teste'; 
+import TeacherItem from '../../components/TeacherItem'; 
 
 
 import './styles.css';
