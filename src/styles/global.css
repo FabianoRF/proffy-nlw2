@@ -46,6 +46,7 @@ input,
 button,
 textarea {
     font:500 1.6rem Poppins;/*o rem usa 1.6 do padrao*/
+    color: var(--color-text-base);
 }
 
 .container{
