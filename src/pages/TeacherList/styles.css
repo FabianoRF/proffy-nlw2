@@ -30,7 +30,9 @@
         bottom: -28px;
     }
 
-    #search-teachers .input-block  + .input-block{/*todo input que vem dps do primeiro*/
+    #search-teachers .input-block  + .input-block,
+    #search-teachers .select-block  + .select-block
+    {/*todo input que vem dps do primeiro*/
         margin-top: 0;
     }
     

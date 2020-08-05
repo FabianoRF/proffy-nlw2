@@ -8,10 +8,10 @@ function TeacherItem(){
   return (
       <article className="teacher-item">
         <header>
-            <img src="https://image.freepik.com/vetores-gratis/perfil-de-avatar-de-mulher-no-icone-redondo_24640-14042.jpg" alt=""/>
+            <img src="https://avatars3.githubusercontent.com/u/54816806?s=460&u=e00582aafaa32daf5330d589c1cd220af5a9be1c&v=4" alt=""/>
             <div>
-                <strong>Professor</strong>
-                <span>Química</span>
+                <strong>Fabiano Reis </strong>
+                <span>Quimica</span>
             </div>
         </header>
         <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.
